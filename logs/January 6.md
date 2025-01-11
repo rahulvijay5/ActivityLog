@@ -20,3 +20,5 @@
 
 ## 🎯 What I will do tomorrow:
 - Complete this websocket backend, or maybe ui too, backend for my app can be completed today(if time persists.)
+
+Practically this day wasn't about app dev or anything.
